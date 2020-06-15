@@ -1,0 +1,39 @@
+@font-face
+{
+	font-family: pointsoft;
+	src: url("Point Soft Semi Bold.otf") ;
+}
+h1
+{
+	font-family: pointsoft;
+	text-align: center;
+    
+}
+.border
+{
+	
+	border: 10px;
+	border-color: black;
+}
+.Chicken
+{
+	text-align: center;
+	font-family: pointsoft;
+	background-color: #d59898;
+	width: 100px;
+}
+.Beef
+{
+	text-align: center;
+	font-family: pointsoft;
+	background-color: #c14543;
+	color: white;
+	width: 100px;
+}
+.Sushi
+{
+	text-align: center;
+	font-family: pointsoft;
+	background-color: #e5d198;
+	width: 100px;
+}
